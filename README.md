@@ -4,4 +4,4 @@ This is an activity for FSWD Lesson 5.4.6- Practicing Async & Await
 
 Please refer to the Activity Guide in Canvas for directions.
 
-http://127.0.0.1:9000/
+https://zohaibfattani.github.io/JS-Web-Game-Part-7/
